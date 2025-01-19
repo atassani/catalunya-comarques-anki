@@ -22,6 +22,7 @@ def modify_svg_and_convert_to_png(input_svg_path):
         for path in comarques_group.findall('.//svg:path', namespaces=namespaces):
             path_id = path.get('id')
             if path_id:
+
                 # Create a deep copy of the entire SVG tree
                 modified_tree = deepcopy(tree)
                 modified_root = modified_tree.getroot()
@@ -40,9 +41,13 @@ def modify_svg_and_convert_to_png(input_svg_path):
                     new_style = ';'.join(f"{k}:{v}" for k, v in style_dict.items())
                     modified_path.set('style', new_style)
 
+                    # Convert hyphens to underscores in path_id
+                    path_id = path_id.replace('-', '_')
+                    print(f"Converted path_id: {path_id}")
+
                     # Define output filenames
-                    output_svg_path = f"catalunyaNew-{path_id}.svg"
-                    output_png_path = f"catalunyaNew-{path_id}.png"
+                    output_svg_path = f"output/images/catalunyaNew_{path_id}.svg"
+                    output_png_path = f"output/images/catalunyaNew_{path_id}.png"
 
                     # Write the modified SVG to a new file
                     modified_tree.write(output_svg_path, pretty_print=True, xml_declaration=True, encoding='UTF-8')
@@ -58,5 +63,5 @@ def modify_svg_and_convert_to_png(input_svg_path):
         print("Group with inkscape:label='Comarques' not found.")
 
 # Example usage
-input_svg = 'catalunya-toponims.svg'  # Replace with the path to your SVG file
+input_svg = 'svg/catalunya-toponims.svg'  # Replace with the path to your SVG file
 modify_svg_and_convert_to_png(input_svg)

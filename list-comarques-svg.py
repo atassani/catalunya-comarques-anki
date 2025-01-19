@@ -26,5 +26,5 @@ def list_path_ids_in_comarques_group(svg_file_path):
         print("Group with inkscape:label='Comarques' not found.")
 
 # Example usage
-svg_file_path = 'catalunya-toponims.svg'  # Replace with the path to your SVG file
+svg_file_path = 'svg/catalunya-toponims.svg'  # Replace with the path to your SVG file
 list_path_ids_in_comarques_group(svg_file_path)

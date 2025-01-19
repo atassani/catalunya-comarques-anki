@@ -9,7 +9,7 @@ def svg_to_png(input_svg_path, output_png_path, output_width=800):
     )
 
 # Example usage
-input_svg = 'catalunya-toponims.svg'  # Path to your input SVG file
+input_svg = 'svg/catalunya-toponims.svg'  # Path to your input SVG file
 output_png = 'catalunya-toponims.png'  # Path to save the output PNG file
 
 svg_to_png(input_svg, output_png)
