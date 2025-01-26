@@ -63,5 +63,5 @@ def modify_svg_and_convert_to_png(input_svg_path):
         print("Group with inkscape:label='Comarques' not found.")
 
 # Example usage
-input_svg = 'svg/catalunya-toponims.svg'  # Replace with the path to your SVG file
+input_svg = 'svg/catalunya.svg'  # Replace with the path to your SVG file
 modify_svg_and_convert_to_png(input_svg)

@@ -62,7 +62,7 @@ def create_combined_svg(base_svg_path, new_svg_path, output_svg_path):
     base_svg.write(output_svg_path, encoding="utf-8", xml_declaration=True)
 
 # Paths to the SVG files
-base_svg_path = "svg/catalunya-toponims.svg"
+base_svg_path = "svg/catalunya.svg"
 new_svg_path = "svg/LluçanèsACatalunya23.svg"
 output_svg_path = "svg/combined_catalunya.svg"
 

@@ -2,11 +2,11 @@
 
 ## Genreating the images of each comarca
 It was not possible to use ChatGPT to modify a raster file (png) to highlight each comarca, so I found SVG files I could manipulate.
-- [catalunya.svg](svg/catalunya.svg) — A map of the comarques without text. I modified one `path` to make it `red`. (_[source](https://commons.wikimedia.org/wiki/File%3AMapa_comarcal_de_Catalunya.svg)_)
+
 - [catalunya-comarques.svg](svg/catalunya-comarques.svg) — A map of the comarques with the comarca names but not the capitals. It includes Moianès. (_[source](https://upload.wikimedia.org/wikipedia/commons/2/26/Comarcas_de_Catalu%C3%B1a.svg)_)
 - [catalunya-toponims-original.svg](svg/catalunya-toponims-original.svg) — The map I end up using, including Municipis and more text. Does not include Moianès. (_[source](https://upload.wikimedia.org/wikipedia/commons/a/af/CatMCVPtoponims.svg)_)
 - [LluçanèsACatalunya23.svg](svg/Llu%C3%A7an%C3%A8sACatalunya23.svg) — A map with Lluçanès and Moianès. (_[source](https://es.m.wikipedia.org/wiki/Archivo:Llu%C3%A7an%C3%A8sACatalunya23.svg)_)
-- [catalunya-toponims.svg](svg/catalunya-toponims.svg) — The map I ended up using, with the Municipis removed, manually manipulated. 
+- [catalunya.svg](svg/catalunya.svg) — The map used, manually manipulated. 
 
 I did not explore using geojson or topojson, available at [catalonia-cartography](https://github.com/sirisacademic/catalonia-cartography) GitHub repo.
 
@@ -25,11 +25,9 @@ $ pip install lxml
 $ pip install cairosvg
 ```
 
-I manually modified `catalunya-toponims.svg` removing municipalities and identifying paths of each comarca in their `path@id`.
-
 - [list-comarques-svg.py](list-comarques-svg.py) — List the comarques in the SVG file.
 - [convert-svg-to-png.py](convert-svg-to-png.py) — Convert a single SVG file to PNG, 800 pixels wide.
-- [add_new_map.py](add_new_map.py) — Creates a new SVG from `catalunya-toponims.svg` adding the map from `LluçanèsACatalunya23.svg` with Lluçanès and Moianès.
+- [add_new_map.py](add_new_map.py) — Creates a new SVG from `catalunya.svg` adding the map from `LluçanèsACatalunya23.svg` with Lluçanès and Moianès.
 - [generate-each-comarca.py](generate-each-comarca.py) — Generate a PNG file for each comarca, highlighting the border in red.
 
 ## Reordering the markdown
