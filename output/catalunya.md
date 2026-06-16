@@ -2,401 +2,482 @@
 
 ---
 
-Deck: Comarques de Catalunya
+Deck: Study::Comarques de Catalunya
 Tags: catalunya
 
+<!--ID:1737362076631-->
 1. Quina és la capital de la comarca de l'**Alt Camp**?
 > La capital de la comarca de l'Alt Camp és **Valls**.
 >
 > ![Alt Camp](images/catalunya_alt_camp.png)
 
+<!--ID:1737362076632-->
 2. De quina comarca **Valls** és la capital?
 > Valls és la capital de l'**Alt Camp**.
 >
 > ![Alt Camp](images/catalunya_alt_camp.png)
 
+<!--ID:1737362076633-->
 3. Quina és la capital de la comarca de l'**Alt Empordà**?
 > La capital de la comarca de l'Alt Empordà és **Figueres**.
 >
 > ![Alt Empordà](images/catalunya_alt_emporda.png)
 
+<!--ID:1737362076634-->
 4. De quina comarca **Figueres** és la capital?
 > Figueres és la capital de l'**Alt Empordà**.
 >
 > ![Alt Empordà](images/catalunya_alt_emporda.png)
 
+<!--ID:1737362076635-->
 5. Quina és la capital de la comarca de l'**Alt Penedès**?
 > La capital de la comarca de l'Alt Penedès és **Vilafranca del Penedès**.
 >
 > ![Alt Penedès](images/catalunya_alt_penedes.png)
 
+<!--ID:1737362076636-->
 6. De quina comarca **Vilafranca del Penedès** és la capital?
 > Vilafranca del Penedès és la capital de l'**Alt Penedès**.
 >
 > ![Alt Penedès](images/catalunya_alt_penedes.png)
 
+<!--ID:1737362076637-->
 7. Quina és la capital de la comarca de l'**Alt Urgell**?
 > La capital de la comarca de l'Alt Urgell és **La Seu d'Urgell**.
 >
 > ![Alt Urgell](images/catalunya_alt_urgell.png)
 
+<!--ID:1737362076638-->
 8. De quina comarca **La Seu d'Urgell** és la capital?
 > La Seu d'Urgell és la capital de l'**Alt Urgell**.
 >
 > ![Alt Urgell](images/catalunya_alt_urgell.png)
+<!--ID:1737362076639-->
 9. Quina és la capital de la comarca de l'**Alta Ribagorça**?
 > La capital de la comarca de l'Alta Ribagorça és **El Pont de Suert**.
 >
 > ![Alta Ribagorça](images/catalunya_alta_ribagorca.png)
+<!--ID:1737362076640-->
 10. De quina comarca **El Pont de Suert** és la capital?
 > El Pont de Suert és la capital de l'**Alta Ribagorça**.
 >
 > ![Alta Ribagorça](images/catalunya_alta_ribagorca.png)
 
+<!--ID:1737849928155-->
 11. Quina és la capital de la comarca de l'**Anoia**?
 > La capital de la comarca de l'Anoia és **Igualada**.
 >
 > ![Anoia](images/catalunya_anoia.png)
 
+<!--ID:1737362076641-->
 12. De quina comarca **Igualada** és la capital?
 > Igualada és la capital de l'**Anoia**.
 >
 > ![Anoia](images/catalunya_anoia.png)
 
+<!--ID:1737362076642-->
 13. Quina és la capital de la comarca del **Bages**?
 > La capital de la comarca del Bages és **Manresa**.
 >
 > ![Bages](images/catalunya_bages.png)
 
+<!--ID:1737362076643-->
 14. De quina comarca **Manresa** és la capital?
 > Manresa és la capital del **Bages**.
 >
 > ![Bages](images/catalunya_bages.png)
 
+<!--ID:1737362076644-->
 15. Quina és la capital de la comarca del **Baix Camp**?
 > La capital de la comarca del Baix Camp és **Reus**.
 >
 > ![Baix Camp](images/catalunya_baix_camp.png)
 
+<!--ID:1737362076645-->
 16. De quina comarca **Reus** és la capital?
 > Reus és la capital del **Baix Camp**.
 >
 > ![Baix Camp](images/catalunya_baix_camp.png)
 
+<!--ID:1737362076646-->
 17. Quina és la capital de la comarca del **Baix Ebre**?
 > La capital de la comarca del Baix Ebre és **Tortosa**.
 >
 > ![Baix Ebre](images/catalunya_baix_ebre.png)
 
+<!--ID:1737362076647-->
 18. De quina comarca **Tortosa** és la capital?
 > Tortosa és la capital del **Baix Ebre**.
 >
 > ![Baix Ebre](images/catalunya_baix_ebre.png)
 
+<!--ID:1737362076648-->
 19. Quina és la capital de la comarca del **Baix Empordà**?
 > La capital de la comarca del Baix Empordà és **La Bisbal d'Empordà**.
 >
 > ![Baix Empordà](images/catalunya_baix_emporda.png)
 
+<!--ID:1737362076649-->
 20. De quina comarca **La Bisbal d'Empordà** és la capital?
 > La Bisbal d'Empordà és la capital del **Baix Empordà**.
 >
 > ![Baix Empordà](images/catalunya_baix_emporda.png)
 
+<!--ID:1737362076650-->
 21. Quina és la capital de la comarca del **Baix Llobregat**?
 > La capital de la comarca del Baix Llobregat és **Sant Feliu de Llobregat**.
 >
 > ![Baix Llobregat](images/catalunya_baix_llobregat.png)
 
+<!--ID:1737362076651-->
 22. De quina comarca **Sant Feliu de Llobregat** és la capital?
 > Sant Feliu de Llobregat és la capital del **Baix Llobregat**.
 >
 > ![Baix Llobregat](images/catalunya_baix_llobregat.png)
+<!--ID:1737362076652-->
 23. Quina és la capital de la comarca del **Baix Penedès**?
 > La capital de la comarca del Baix Penedès és **El Vendrell**.
 >
 > ![Baix Penedès](images/catalunya_baix_penedes.png)
+<!--ID:1737362076653-->
 24. De quina comarca **El Vendrell** és la capital?
 > El Vendrell és la capital del **Baix Penedès**.
 >
 > ![Baix Penedès](images/catalunya_baix_penedes.png)
 
+<!--ID:1737362076654-->
 25. Quina és la capital de la comarca del **Barcelonès**?
 > La capital de la comarca del Barcelonès és **Barcelona**.
 >
 > ![Barcelonès](images/catalunya_barcelones.png)
 
+<!--ID:1737362076655-->
 26. De quina comarca **Barcelona** és la capital?
 > Barcelona és la capital del **Barcelonès**.
 >
 > ![Barcelonès](images/catalunya_barcelones.png)
 
+<!--ID:1737362076656-->
 27. Quina és la capital de la comarca del **Berguedà**?
 > La capital de la comarca del Berguedà és **Berga**.
 >
 > ![Berguedà](images/catalunya_bergueda.png)
 
+<!--ID:1737362076657-->
 28. De quina comarca **Berga** és la capital?
 > Berga és la capital del **Berguedà**.
 >
 > ![Berguedà](images/catalunya_bergueda.png)
 
+<!--ID:1737362076658-->
 29. Quina és la capital de la comarca de la **Cerdanya**?
 > La capital de la comarca de la Cerdanya és **Puigcerdà**.
 >
 > ![Cerdanya](images/catalunya_cerdanya.png)
 
+<!--ID:1737362076659-->
 30. De quina comarca **Puigcerdà** és la capital?
 > Puigcerdà és la capital de la **Cerdanya**.
 >
 > ![Cerdanya](images/catalunya_cerdanya.png)
 
+<!--ID:1737362076660-->
 31. Quina és la capital de la comarca del **Conca de Barberà**?
 > La capital de la comarca del Conca de Barberà és **Montblanc**.
 >
 > ![Conca de Barberà](images/catalunya_conca_de_barbera.png)
 
+<!--ID:1737362076661-->
 32. De quina comarca **Montblanc** és la capital?
 > Montblanc és la capital del **Conca de Barberà**.
 >
 > ![Conca de Barberà](images/catalunya_conca_de_barbera.png)
 
+<!--ID:1737362076662-->
 33. Quina és la capital de la comarca del **Garraf**?
 > La capital de la comarca del Garraf és **Vilanova i la Geltrú**.
 >
 > ![Garraf](images/catalunya_garraf.png)
 
+<!--ID:1737362076663-->
 34. De quina comarca **Vilanova i la Geltrú** és la capital?
 > Vilanova i la Geltrú és la capital del **Garraf**.
 >
 > ![Garraf](images/catalunya_garraf.png)
 
+<!--ID:1737362076664-->
 35. Quina és la capital de la comarca de les **Garrigues**?
 > La capital de la comarca del Garrigues és **Les Borges Blanques**.
 >
 > ![Garrigues](images/catalunya_garrigues.png)
 
+<!--ID:1737362076665-->
 36. De quina comarca **Les Borges Blanques** és la capital?
 > Les Borges Blanques és la capital de les **Garrigues**.
 >
 > ![Garrigues](images/catalunya_garrigues.png)
 
+<!--ID:1737362076666-->
 37. Quina és la capital de la comarca de la **Garrotxa**?
 > La capital de la comarca de la Garrotxa és **Olot**.
 >
 > ![Garrotxa](images/catalunya_garrotxa.png)
 
+<!--ID:1737362076667-->
 38. De quina comarca **Olot** és la capital?
 > Olot és la capital de la **Garrotxa**.
 >
 > ![Garrotxa](images/catalunya_garrotxa.png)
 
+<!--ID:1737362076668-->
 39. Quina és la capital de la comarca del **Gironès**?
 > La capital de la comarca del Gironès és **Girona**.
 >
 > ![Gironès](images/catalunya_girones.png)
 
+<!--ID:1737362076669-->
 40. De quina comarca **Girona** és la capital?
 > Girona és la capital del **Gironès**.
 >
 > ![Gironès](images/catalunya_girones.png)
+<!--ID:1737362076670-->
 41. Quina és la capital de la comarca del **Lluçanès**?
 > La capital de la comarca del Lluçanès és **Prats de Lluçanès**.
 >
 > ![Lluçanès](images/catalunya_llucanes.png)
+<!--ID:1737362076671-->
 42. De quina comarca **Prats de Lluçanès** és la capital?
 > El Vendrell és la capital del **Lluçanès**.
 >
 > ![Lluçanès](images/catalunya_llucanes.png)
 
+<!--ID:1737362076672-->
 43. Quina és la capital de la comarca del **Maresme**?
 > La capital de la comarca del Maresme és **Mataró**.
 >
 > ![Maresme](images/catalunya_maresme.png)
 
+<!--ID:1737362076673-->
 44. De quina comarca **Mataró** és la capital?
 > Mataró és la capital del **Maresme**.
 >
 > ![Maresme](images/catalunya_maresme.png)
+<!--ID:1737362076674-->
 45. Quina és la capital de la comarca del **Moianès**?
 > La capital de la comarca del Moianès és **Moià**.
 >
 > ![Moianes](images/catalunya_moianes.png)
+<!--ID:1737362076675-->
 46. De quina comarca **Moià** és la capital?
 > Moià és la capital del **Moianès**.
 >
 > ![Moianes](images/catalunya_moianes.png)
 
+<!--ID:1737362076676-->
 47. Quina és la capital de la comarca del **Montsià**?
 > La capital de la comarca del Montsià és **Amposta**.
 >
 > ![Montsià](images/catalunya_montsia.png)
 
+<!--ID:1737362076677-->
 48. De quina comarca **Amposta** és la capital?
 > Amposta és la capital del **Montsià**.
 >
 > ![Montsià](images/catalunya_montsia.png)
 
+<!--ID:1737362076678-->
 49. Quina és la capital de la comarca de la **Noguera**?
 > La capital de la comarca del Noguera és **Balaguer**.
 >
 > ![Noguera](images/catalunya_noguera.png)
 
+<!--ID:1737362076679-->
 50. De quina comarca **Balaguer** és la capital?
 > Balaguer és la capital de la **Noguera**.
 >
 > ![Noguera](images/catalunya_noguera.png)
 
+<!--ID:1737362076680-->
 51. Quina és la capital de la comarca d'**Osona**?
 > La capital de la comarca d'Osona és **Vic**.
 >
 > ![Osona](images/catalunya_osona.png)
 
+<!--ID:1737362076681-->
 52. De quina comarca **Vic** és la capital?
 > Vic és la capital d'**Osona**.
 >
 > ![Osona](images/catalunya_osona.png)
 
+<!--ID:1737362076682-->
 53. Quina és la capital de la comarca del **Pallars Jussà**?
 > La capital de la comarca del Pallars Jussà és **Tremp**.
 >
 > ![Pallars Jussà](images/catalunya_pallars_jussa.png)
 
+<!--ID:1737362076683-->
 54. De quina comarca **Tremp** és la capital?
 > Tremp és la capital del **Pallars Jussà**.
 >
 > ![Pallars Jussà](images/catalunya_pallars_jussa.png)
 
+<!--ID:1737362076684-->
 55. Quina és la capital de la comarca del **Pallars Sobirà**?
 > La capital de la comarca del Pallars Sobirà és **Sort**.
 >
 > ![Pallars Sobirà](images/catalunya_pallars_sobira.png)
 
+<!--ID:1737362076685-->
 56. De quina comarca **Sort** és la capital?
 > Sort és la capital del **Pallars Sobirà**.
 >
 > ![Pallars Sobirà](images/catalunya_pallars_sobira.png)
 
+<!--ID:1737362076686-->
 57. Quina és la capital de la comarca del **Pla d'Urgell**?
 > La capital de la comarca del Pla d'Urgell és **Mollerussa**.
 >
 > ![Pla d'Urgell](images/catalunya_pla_d_urgell.png)
 
+<!--ID:1737362076687-->
 58. De quina comarca **Mollerussa** és la capital?
 > Mollerussa és la capital del **Pla d'Urgell**.
 >
 > ![Pla d'Urgell](images/catalunya_pla_d_urgell.png)
 
+<!--ID:1737362076688-->
 59. Quina és la capital de la comarca del **Pla de l'Estany**?
 > La capital de la comarca del Pla de l'Estany és **Banyoles**.
 >
 > ![Pla de l'Estany](images/catalunya_pla_de_l_estany.png)
 
+<!--ID:1737362076689-->
 60. De quina comarca **Banyoles** és la capital?
 > Banyoles és la capital del **Pla de l'Estany**.
 >
 > ![Pla de l'Estany](images/catalunya_pla_de_l_estany.png)
 
+<!--ID:1737362076690-->
 61. Quina és la capital de la comarca del **Priorat**?
 > La capital de la comarca del Priorat és **Falset**.
 >
 > ![Priorat](images/catalunya_priorat.png)
 
+<!--ID:1737362076691-->
 62. De quina comarca **Falset** és la capital?
 > Falset és la capital del **Priorat**.
 >
 > ![Priorat](images/catalunya_priorat.png)
 
+<!--ID:1737362076692-->
 63. Quina és la capital de la comarca de **Ribera d'Ebre**?
 > La capital de la comarca de la Ribera d'Ebre és **Móra d'Ebre**.
 >
 > ![Ribera d'Ebre](images/catalunya_ribera_d_ebre.png)
 
+<!--ID:1737362076693-->
 64. De quina comarca **Móra d'Ebre** és la capital?
 > Móra d'Ebre és la capital de la **Ribera d'Ebre**.
 >
 > ![Ribera d'Ebre](images/catalunya_ribera_d_ebre.png)
 
+<!--ID:1737362076694-->
 65. Quina és la capital de la comarca del **Ripollès**?
 > La capital de la comarca del Ripollès és **Ripoll**.
 >
 > ![Ripollès](images/catalunya_ripolles.png)
 
+<!--ID:1737362076695-->
 66. De quina comarca **Ripoll** és la capital?
 > Ripoll és la capital del **Ripollès**.
 >
 > ![Ripollès](images/catalunya_ripolles.png)
 
+<!--ID:1737362076696-->
 67. Quina és la capital de la comarca de la **Segarra**?
 > La capital de la comarca del Segarra és **Cervera**.
 >
 > ![Segarra](images/catalunya_segarra.png)
 
+<!--ID:1737362076697-->
 68. De quina comarca **Cervera** és la capital?
 > Cervera és la capital de la **Segarra**.
 >
 > ![Segarra](images/catalunya_segarra.png)
 
+<!--ID:1737362076698-->
 69. Quina és la capital de la comarca del **Segrià**?
 > La capital de la comarca del Segrià és **Lleida**.
 >
 > ![Segrià](images/catalunya_segria.png)
 
+<!--ID:1737362076699-->
 70. De quina comarca **Lleida** és la capital?
 > Lleida és la capital del **Segrià**.
 >
 > ![Segrià](images/catalunya_segria.png)
 
+<!--ID:1737362076700-->
 71. Quina és la capital de la comarca de la **Selva**?
 > La capital de la comarca del Selva és **Santa Coloma de Farners**.
 >
 > ![Selva](images/catalunya_selva.png)
 
+<!--ID:1737362076701-->
 72. De quina comarca **Santa Coloma de Farners** és la capital?
 > Santa Coloma de Farners és la capital de la **Selva**.
 >
 > ![Selva](images/catalunya_selva.png)
 
+<!--ID:1737362076702-->
 73. Quina és la capital de la comarca del **Solsonès**?
 > La capital de la comarca del Solsonès és **Solsona**.
 >
 > ![Solsonès](images/catalunya_solsones.png)
 
+<!--ID:1737362076703-->
 74. De quina comarca **Solsona** és la capital?
 > Solsona és la capital del **Solsonès**.
 >
 > ![Solsonès](images/catalunya_solsones.png)
 
+<!--ID:1737362076704-->
 75. Quina és la capital de la comarca del **Tarragonès**?
 > La capital de la comarca del Tarragonès és **Tarragona**.
 >
 > ![Tarragonès](images/catalunya_tarragones.png)
 
+<!--ID:1737362076705-->
 76. De quina comarca **Tarragona** és la capital?
 > Tarragona és la capital del **Tarragonès**.
 >
 > ![Tarragonès](images/catalunya_tarragones.png)
 
+<!--ID:1737362076706-->
 77. Quina és la capital de la comarca de la **Terra Alta**?
 > La capital de la comarca de la Terra Alta és **Gandesa**.
 >
 > ![Terra Alta](images/catalunya_terra_alta.png)
 
+<!--ID:1737362076707-->
 78. De quina comarca **Gandesa** és la capital?
 > Gandesa és la capital de la **Terra Alta**.
 >
 > ![Terra Alta](images/catalunya_terra_alta.png)
 
+<!--ID:1737362076708-->
 79. Quina és la capital de la comarca de l'**Urgell**?
 > La capital de la comarca de l'Urgell és **Tàrrega**.
 >
 > ![Urgell](images/catalunya_urgell.png)
 
+<!--ID:1737362076709-->
 80. De quina comarca **Tàrrega** és la capital?
 > Tàrrega és la capital de l'**Urgell**.
 >
 > ![Urgell](images/catalunya_urgell.png)
 
+<!--ID:1737362076710-->
 81. Quina és la capital de la comarca de la **Vall d'Aran**?
 > La capital de la comarca de la Vall d'Aran és **Vielha e Mijaran**.
 >
@@ -404,6 +485,7 @@ Tags: catalunya
 > 
 > ![Vall d'Aran](images/catalunya_vall_d_aran.png)
 
+<!--ID:1737362076711-->
 82. De quina comarca **Vielha e Mijaran** és la capital?
 > Vielha e Mijaran és la capital de la **Vall d'Aran**.
 >
@@ -411,21 +493,25 @@ Tags: catalunya
 > 
 > ![Vall d'Aran](images/catalunya_vall_d_aran.png)
 
+<!--ID:1737362076712-->
 83. Quina és la capital de la comarca del **Vallès Occidental**?
 > La capital de la comarca del Vallès Occidental és **Sabadell**.
 >
 > ![Vallès Occidental](images/catalunya_valles_occidental.png)
 
+<!--ID:1737362076713-->
 84. De quina comarca **Sabadell** és la capital?
 > Sabadell és la capital del **Vallès Occidental**.
 >
 > ![Vallès Occidental](images/catalunya_valles_occidental.png)
 
+<!--ID:1737362076714-->
 85. Quina és la capital de la comarca del **Vallès Oriental**?
 > La capital de la comarca del Vallès Oriental és **Granollers**.
 >
 > ![Vallès Oriental](images/catalunya_valles_oriental.png)
 
+<!--ID:1737362076715-->
 86. De quina comarca **Granollers** és la capital?
 > Granollers és la capital del **Vallès Oriental**.
 >
